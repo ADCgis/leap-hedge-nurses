@@ -1,2 +1,2 @@
 # leap-hedge-nurses
-OpenZOOMSTACK FOR WEBMAP                                                                                          
+Openzoomstack for WEBMAP                                                                                          
